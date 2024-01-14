@@ -32,7 +32,7 @@ This works on most 68K Macs and PPC Macs as long as there is no physical interfe
 
 ## Gerber files
 
-You can use it by compressing [SR2_Gen_Gerber](SR2_Gen_Gerber)  and uploading it to JLCPCB as it is.
+You can use it by compressing this [Gerber](SCSI-RIDER2-DB25-GERBER) folder and uploading it to JLCPCB as it is.
 
 <BR><BR>
 ## SCSI RIDER 2 Kit
