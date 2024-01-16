@@ -14,11 +14,11 @@ Especially designed for Mac SE/30, SE...
 The device to be installed is mainly assumed to be 
 *[BlueSCSI](https://github.com/erichelgeson/BlueSCSI)*
 <BR>
-<img src="Pictures/IMG_8976.jpeg" width="500px"><BR><BR>
+<img src="Pictures/IMG_8976.jpeg" width="300px"><BR><BR>
 <BR>
 
 ## Supported Macs
-<img src="Pictures/IMG_891.jpeg" width="500px"><BR><BR>
+<img src="Pictures/IMG_8991.jpeg" width="300px"><BR><BR>
 <BR>
 *SCSI RIDER 2 with SE/30
 <BR><BR>
