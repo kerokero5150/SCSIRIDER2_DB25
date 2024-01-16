@@ -4,8 +4,8 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 <br>
-　![alt](Pictures/IMG_8994.jpeg)
-　![alt](Pictures/IMG_8995.jpeg)
+<img src="Pictures/IMG_8994.jpeg" width="500px"><BR><BR>
+<img src="Pictures/IMG_8995.jpeg" width="500px"><BR><BR>
 ## What kind of product is this
 Changed the output of SCSI RIDER 2 from IDC50 to DB25 female<BR>
 This SCSI RIDER 2 is riser card for connecting SCSI devices like BlueSCSI V2 to the external SCSI db25 connector.
@@ -14,11 +14,11 @@ Especially designed for Mac SE/30, SE...
 The device to be installed is mainly assumed to be 
 *[BlueSCSI](https://github.com/erichelgeson/BlueSCSI)*
 <BR>
-  ![alt](Pictures/IMG_8976.jpeg)
+<img src="Pictures/IMG_8976.jpeg" width="500px"><BR><BR>
 <BR>
 
 ## Supported Macs
-![alt](Pictures/IMG_8991.JPG)
+<img src="Pictures/IMG_891.jpeg" width="500px"><BR><BR>
 <BR>
 *SCSI RIDER 2 with SE/30
 <BR><BR>
@@ -31,9 +31,7 @@ You can use it by compressing this [Gerber](SCSI-RIDER2-DB25-GERBER) folder and 
 <BR><BR>
 ## SCSI RIDER 2 Kit
 
-If you want a quick kit, you can buy it at my store below. It is 6 USD.
-https://en.infinityproducts.co.jp/product-page/scsi-rider2-bare-pcb-kit-db25-to-50pin-adapter
-
+If you want a quick kit, you can buy it at my store [page](https://en.infinityproducts.co.jp/product-page/scsi-rider2-db25-fully-assembled-and-bare-pcb-kit). It is 6 USD.
 
 ## License
 
