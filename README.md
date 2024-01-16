@@ -4,8 +4,8 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 <br>
-　![alt](Images/IMG_5069.jpeg)
-　![alt](Images/IMG_5070.jpeg)
+　![alt](Pictures/IMG_8994.jpeg)
+　![alt](Pictures/IMG_8995.jpeg)
 ## What kind of product is this
 Changed the output of SCSI RIDER 2 from IDC50 to DB25 female<BR>
 This SCSI RIDER 2 is riser card for connecting SCSI devices like BlueSCSI V2 to the external SCSI db25 connector.
@@ -14,17 +14,11 @@ Especially designed for Mac SE/30, SE...
 The device to be installed is mainly assumed to be 
 *[BlueSCSI](https://github.com/erichelgeson/BlueSCSI)*
 <BR>
-  ![alt](Images/IMG_5074.jpeg)
+  ![alt](Pictures/IMG_8976.jpeg)
 <BR>
-More details here (My Blog):
-https://ameblo.jp/keroxiee1016/entry-12794523403.html
-
-## Assemble
-
-Check out the [Assembly](Assembly.md) when you're ready to get started.
 
 ## Supported Macs
-![alt](Images/IMG_5054.JPG)
+![alt](Pictures/IMG_8991.JPG)
 <BR>
 *SCSI RIDER 2 with SE/30
 <BR><BR>
